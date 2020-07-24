@@ -1,0 +1,10 @@
+language: csharp
+solution: OctaneDownloadEngine.sln
+mono: 5.2.0
+dotnet: 3.0.100
+install:
+ - export FrameworkPathOverride=$(dirname $(which mono))/../lib/mono/4.5/
+ - nuget restore Lycan.sln
+script:
+ - dotnet restore
+ - dotnet build ./Lycan.sln
