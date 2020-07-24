@@ -1,7 +1,5 @@
 [![Build Status](https://travis-ci.com/gregyjames/Lycan.svg?branch=master)](https://travis-ci.com/gregyjames/Lycan)
 # Lycan ![](download.jpg)
-
-## What is Lycan?
 Lycan is a application development framework for responding to browser events outside the browser in other languages (i.e C#)
 
 ## How does Lycan Work?
