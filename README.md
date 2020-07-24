@@ -1,3 +1,4 @@
+![Alt text](img.jpg)
 # Lycan
 
 ## What is Lycan?
