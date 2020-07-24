@@ -12,3 +12,10 @@ Lycan creates a local server on your desktop that responds to HTTP requests from
 
 ## What languages are currenly implemented?
 - C# .Net
+
+## How do I install the browser extensions?
+- Chrome
+  - Go to the url chrome://extensions/ url in your browser
+  - Turn on developer mode
+  - Press the "Load Unpacked" Button
+  - Navigate to the browser-extensions/chrome-extension folder where you cloned Lycan
