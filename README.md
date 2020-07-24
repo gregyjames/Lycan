@@ -1,5 +1,4 @@
-![](download.jpg)
-# Lycan
+# Lycan ![](download.jpg)
 
 ## What is Lycan?
 Lycan is a application development framework for responding to browser events outside the browser in other languages (i.e C#)
