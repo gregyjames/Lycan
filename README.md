@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.com/gregyjames/Lycan.svg?branch=master)](https://travis-ci.com/gregyjames/Lycan)
 # Lycan ![](download.jpg)
 
 ## What is Lycan?
